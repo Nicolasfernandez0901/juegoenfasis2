@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Stylized_Pirate_Ship/StylShip_Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Water Float/Demo/Demo.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Altar_Ruins_FREE/Demo.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
